@@ -1,0 +1,36 @@
+[
+  {
+    "id": "s01_step",
+    "scale": "insert",
+    "camera_directive": "Static ground-level close shot on his boot and the hem of his mantle",
+    "camera_motion": "static",
+    "state": "STATE_CALM",
+    "details": ["TIER3_HEM"],
+    "action": "The tip of his black boot slowly lowers onto the surface and touches it without sinking, as if he weighs nothing; rings of ripples spread outward from the point of contact, and the hem of his mantle and robes sways with the motion",
+    "setting": "A vast, mirror-smooth surface of liquid light stretching to the horizon, reflecting a pale luminous sky",
+    "duration": 5,
+    "aspect_ratio": "16:9"
+  },
+  {
+    "id": "s02_stand",
+    "scale": "full",
+    "camera_directive": "Slow low-angle shot looking up at him against a bright sky",
+    "camera_motion": "slow",
+    "state": "STATE_CALM",
+    "action": "He stands on the surface as if hovering just above it, hands clasped behind his back, while ripples keep spreading beneath his feet and his robes and mantle drift slowly; strong light behind him keeps his face hidden in deep shadow",
+    "setting": "A vast, mirror-smooth surface of liquid light stretching to the horizon, reflecting a pale luminous sky",
+    "duration": 5,
+    "aspect_ratio": "16:9"
+  },
+  {
+    "id": "s03_reveal",
+    "scale": "close-up",
+    "camera_directive": "Slow push-in on his face",
+    "camera_motion": "slow",
+    "state": "STATE_CALM",
+    "action": "His face emerges from shadow into soft light; his eyes are closed, then slowly open, revealing a calm, confident, impassive gaze",
+    "setting": "A pale luminous sky behind him, faint rings of light rippling below",
+    "duration": 6,
+    "aspect_ratio": "16:9"
+  }
+]

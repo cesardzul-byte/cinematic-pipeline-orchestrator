@@ -1,0 +1,26 @@
+# Salida del compilador (se regenera con scripts/compile_shot.py)
+build/
+
+# Clips generados: demasiado pesados para Git
+assets/clips/*
+!assets/clips/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Credenciales y configuración local
+.env
+.env.*
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores
+.vscode/
+.idea/
+*.swp
